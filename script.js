@@ -1,0 +1,1 @@
+alert(" Warning ⚠️ This is only for fun don't   take it Seriously ");
